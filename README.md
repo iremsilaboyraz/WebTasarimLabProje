@@ -1,2 +1,2 @@
-# WebTasar-mLabProje
+# WebTasarimLabProje
 web tasarımı laboratuvar projesi
